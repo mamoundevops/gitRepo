@@ -14,3 +14,10 @@ git push -u origin main
 git remote add origin https://github.com/mamoundevops/gitRepo.git
 git branch -M main
 git push -u origin main
+
+
+
+git push origin master
+git push --set-upstream origin master
+git add .
+git commit -m "the commit "
