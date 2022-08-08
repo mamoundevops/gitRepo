@@ -21,3 +21,4 @@ git push origin master
 git push --set-upstream origin master
 git add .
 git commit -m "the commit "
+git push
